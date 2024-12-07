@@ -1,0 +1,8 @@
+print('Hola, soy Jonathan Axel Seseña Tadeo')
+print('Tengo 13 años')
+print('Mi cumpleaños es el 19/03/2011')
+print('Mi color favorito es el rojo')
+print('Mi comida favorita son los tamales')
+print('Tengo 2 hermanas')
+print('Me gusta jugar basketball')
+print('No me gusta los perros')
